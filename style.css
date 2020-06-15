@@ -1,0 +1,24 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.brand {
+	max-height: 50px;
+}
+
+.jumbotron {
+  color: #007bff;
+  text-align: center;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 35px;
+}
+
+
+.hd {
+  padding: 1rem;
+  margin: 1rem;
+}
