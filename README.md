@@ -3,7 +3,9 @@ Responsive and simple template
 
 🔥 FOLLOW ME ON:
 
-🚀 https://github.com/b-husein 🚀 https://www.linkedin.com/in/pragmaticxyz/
+🚀 https://github.com/b-husein 
+
+🚀 https://www.linkedin.com/in/pragmaticxyz/
 
 💻 USEFUL PLAYLISTS:
 
