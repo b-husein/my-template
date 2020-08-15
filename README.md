@@ -1,5 +1,5 @@
 # my-template
-Responsive and simple template
+## Responsive and simple template
 
 🔥 FOLLOW ME ON:
 
